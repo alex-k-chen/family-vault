@@ -5,7 +5,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue)](https://hub.docker.com/r/elgon2003/family-vault)
 [![License: BSL 1.1](https://img.shields.io/badge/License-BSL%201.1-orange.svg)](LICENSE)
 
-<p align="center">
+<p align="center"> 
   <img src="docs/screenshots/dashboard.png" alt="Family Vault Dashboard" width="800">
 </p>
 
